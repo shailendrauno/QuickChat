@@ -4,6 +4,7 @@ QuickChat is a lightweight, minimal, GPT-powered chat application — built to h
 
 
 ## Table of Contents
+- [Live Preview](https://quick-chat-mocha-tau.vercel.app/)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Quick Start](#quick-start)
