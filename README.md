@@ -185,19 +185,9 @@ Contributions are welcome! Please:
 
 Make sure to run tests (if present) and follow the repository's code style.
 
-## License
-Specify your license here (e.g., MIT). Example:
-
-This project is licensed under the MIT License — see the LICENSE file for details.
-
 ## Contact
 Created by shailendrauno — feel free to open issues or reach out via GitHub.
 
 ---
 
-If you'd like, I can:
-- Tailor this README to the exact tech stack in your repository (Node/Next/Express, Python/FastAPI, etc.) — tell me which one.
-- Generate example code for your API route and frontend integration.
-- Add badges (build, license, OpenAI usage) and a screenshot/demo link.
 
-Which would you like me to do next?
